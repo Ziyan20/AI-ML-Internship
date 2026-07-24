@@ -99,7 +99,6 @@ GenAI-ML-Internship/
 │      ├── Trained Model
 │      └── Results
 │
-├── Certificate.jpg
 │
 └── README.md
 ```
@@ -226,17 +225,6 @@ During this internship I completed practical training in:
 
 ---
 
-# 📜 Certificate
-
-Successfully completed the
-
-**Next-Generation AI: ML, DL & LLMs**
-
-60-Hour Internship Program
-
-conducted by **Aesthetix Edu-Tech**.
-
----
 
 # 🚀 Future Improvements
 
